@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64104839-3149-4a53-8a26-b5f089b68182" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Develop/jdk/lib/src.zip!/java.desktop/javax/swing/JFrame.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Develop/jdk/lib/src.zip!/java.desktop/javax/swing/WindowConstants.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/Develop/jdk/lib/src.zip!/java.desktop/javax/swing/border/BevelBorder.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../day11/src/test/stuproject/App.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../puzzlegame/src/eu/hust/ui/LoginFrame.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="none" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2l0WB8F9fytaRQMWJ9ETkrXjEJ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;public&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/my_project/my_jdkProject/like&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.1484375&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.AdjustString.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.AmountConversion.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.App.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.AppendString.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArithmeticoperatorDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArithmeticoperatorDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArithmeticoperatorDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArithmeticoperatorDemo4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArrayDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArrayDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArrayDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArrayDemo4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArrayDemo5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArrayListDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ArrayListDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.AssigningoperatorDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BasicSearchDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BigDecimalDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BigDecimalDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BigIntegerDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BigIntegerDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BigIntegerDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BinarySearchDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BlockSearchDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BubbleDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CalenderDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CarTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ChronoUnitDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CollectionDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CollectionDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CollectionDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.CountString.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.DaffodilNumber.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.DateDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.DateDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.DateTimeFormatterDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.DisruptOrder.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ForDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.GameTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.GenericsDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.GenericsDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.GenericsDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.GenericsDemo4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.GirlFriendTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HarshSetDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HaxiSearchDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.IdentificationCard.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.InsertDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.InstantDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.IntegerDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.IntegerDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.JointString.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LambdaDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LambdaDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LambdaDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ListDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LocalDateDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LogicoperatorDome1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.LogicoperatorDome2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MathDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MethodDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MethodDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.MyJFrame.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ObjectDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ObjectDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ObjectDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ObjectDemo4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ObjectsDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.OrderDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.PhoneNumCover.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.PhoneTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ProductTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.QuickSortDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RecursionDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RecursionDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RegexDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RegexDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RegexDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RegexDemo4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RegexDemo5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RegexDemo6.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RegexDemo7.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RegexDemo8.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RegexDemo9.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ReplaceString.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RomanNum.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.RuntimedDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SameString.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ScanString.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ScannerDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ScannerDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SetDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SimpleDateFormatDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SimpleDateFormatDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SimpleDateFormatDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SkiploopDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SkiploopDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StringBuilderDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StringBuilderDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StringBuilderDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StringDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StringDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StringJoiner.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StuInfoConsole.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StuScannerTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Student.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SwichDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SystemDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.SystemDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TernaryoperatorDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test10.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test11.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test12.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test13.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test14.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test6.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test7.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test8.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test9.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TestDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TreeSetDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TreeSetDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TreeSetDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TreeSetDemo4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TurnString.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TurnWord.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.TwoDimensionDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.UserLogin.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.UserTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ValueDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ValueDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.VariableDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.VariableDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.VariableTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.VaribleTest1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.WhileDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ZoneDateTimeDemo.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test1.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test2.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test3.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test4.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test5.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test6.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test7.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test9.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.tets8.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.tste.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_project\my_jdkProject\basic-code\day18\src\lib" />
+      <recent name="D:\my_project\my_jdkProject\basic-code\puzzlegame" />
+      <recent name="D:\my_project\my_jdkProject\basic-code\oop-final\src\hust\test" />
+      <recent name="D:\my_project\my_jdkProject\basic-code\oop-package\src" />
+      <recent name="D:\my_project\my_jdkProject\basic-code\oop-extends\src\oopextendsdemo7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my_project\my_jdkProject\basic-code\oop-extends\src" />
+      <recent name="D:\my_project\my_jdkProject\basic-code" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hust.edu.integerdemo" />
+      <recent name="hust.edu.jdk7datedemo" />
+      <recent name="eu.hust.objectdemo.bigintegerdemo" />
+      <recent name="interfacedemo3" />
+      <recent name="domain2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\chenxin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="64104839-3149-4a53-8a26-b5f089b68182" name="更改" comment="" />
+      <created>1724317336611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724317336611</updated>
+      <workItem from="1724317337643" duration="1847000" />
+      <workItem from="1724382253693" duration="3967000" />
+      <workItem from="1724726031312" duration="407000" />
+      <workItem from="1724726453051" duration="1074000" />
+      <workItem from="1724727534700" duration="18816000" />
+      <workItem from="1724842915861" duration="6334000" />
+      <workItem from="1724908902594" duration="16469000" />
+      <workItem from="1724986182411" duration="5791000" />
+      <workItem from="1725886168146" duration="1892000" />
+      <workItem from="1725937800440" duration="9330000" />
+      <workItem from="1726018029065" duration="23342000" />
+      <workItem from="1726104794952" duration="11097000" />
+      <workItem from="1726139298010" duration="4403000" />
+      <workItem from="1726191266959" duration="17389000" />
+      <workItem from="1726302566321" duration="660000" />
+      <workItem from="1726303974242" duration="2424000" />
+      <workItem from="1726314722637" duration="1774000" />
+      <workItem from="1726576388825" duration="4503000" />
+      <workItem from="1726628211337" duration="21137000" />
+      <workItem from="1726712994975" duration="25896000" />
+      <workItem from="1726799755829" duration="7056000" />
+      <workItem from="1727071592467" duration="3785000" />
+      <workItem from="1727143332015" duration="14030000" />
+      <workItem from="1727232608201" duration="14543000" />
+      <workItem from="1727332419092" duration="4812000" />
+      <workItem from="1727405269525" duration="11709000" />
+      <workItem from="1727430181488" duration="2522000" />
+      <workItem from="1727491582057" duration="4884000" />
+      <workItem from="1728463958348" duration="2081000" />
+      <workItem from="1728466326855" duration="2236000" />
+      <workItem from="1728468579917" duration="2506000" />
+      <workItem from="1728475453275" duration="4591000" />
+      <workItem from="1728480070259" duration="2416000" />
+      <workItem from="1728529603223" duration="9567000" />
+      <workItem from="1728545850987" duration="3214000" />
+      <workItem from="1728626584053" duration="5212000" />
+      <workItem from="1728792434123" duration="2054000" />
+      <workItem from="1728872162355" duration="26351000" />
+      <workItem from="1728914153550" duration="966000" />
+      <workItem from="1728958326338" duration="27774000" />
+      <workItem from="1729513134618" duration="2957000" />
+      <workItem from="1729564130743" duration="17061000" />
+      <workItem from="1729650293350" duration="635000" />
+      <workItem from="1729650935884" duration="23369000" />
+      <workItem from="1729689426137" duration="3231000" />
+      <workItem from="1730120318553" duration="3444000" />
+      <workItem from="1730170136561" duration="3762000" />
+      <workItem from="1730180674292" duration="128000" />
+      <workItem from="1730180811653" duration="15113000" />
+      <workItem from="1730275559214" duration="8339000" />
+      <workItem from="1730370318427" duration="224000" />
+      <workItem from="1730370650890" duration="1723000" />
+      <workItem from="1730372789998" duration="2411000" />
+      <workItem from="1730640533411" duration="5908000" />
+      <workItem from="1730691503362" duration="16079000" />
+      <workItem from="1730775131381" duration="20005000" />
+      <workItem from="1730952080952" duration="1591000" />
+      <workItem from="1731031777854" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../oop-code/src/test/Phone.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../day11/src/test/stuproject/UserInfo.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../day18/src/eu/hust/objectdemo/bigintegerdemo/BigIntegerDemo3.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="hust.edu.search.HaxiSearchDemo$Block" memberName="arr" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
